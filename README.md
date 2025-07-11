@@ -14,7 +14,7 @@ axon-segmentation/
 ├── Axon_Segmentation_Xenium.ipynb # Main Jupyter Notebook
 └── README.md
 ```
-## 🎯 Objective
+## Objective
 
 - Segment axons by isolating **18S-rich** but **DAPI-free** regions in spatial transcriptomics images.
 - Export detected axon regions as vectorized **GeoJSON** files for downstream analysis.
